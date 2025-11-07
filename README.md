@@ -95,5 +95,3 @@ npm run dev
 The frontend application will be available at `http://localhost:5173`. Open this URL in your browser to use the app.
 
 ---
-
-and partner with career platforms like LinkedIn. Join us in revolutionizing upskilling—your next great hire or job is just a mock interview away!
