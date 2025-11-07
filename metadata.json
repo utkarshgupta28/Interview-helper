@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Interview Warmup",
+  "description": "An intelligent web application that simulates real interview sessions using your resume. It analyzes your resume, generates relevant questions, asks them using Text-to-Speech, and provides AI-powered feedback on your spoken answers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

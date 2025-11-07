@@ -1,0 +1,17 @@
+John Doe - Senior Software Engineer
+
+Summary:
+Experienced Senior Software Engineer with 8+ years in building scalable web applications. Proficient in JavaScript, React, Node.js, and cloud technologies like AWS. Proven track record of leading projects and mentoring junior developers.
+
+Experience:
+- Senior Software Engineer, TechCorp (2018-Present)
+  - Led the development of a real-time analytics dashboard using React and WebSockets.
+  - Architected and implemented a microservices-based backend on AWS Lambda.
+- Software Engineer, Innovate LLC (2015-2018)
+  - Developed and maintained features for a large-scale e-commerce platform.
+
+Skills:
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, Redux, Tailwind CSS
+- Backend: Node.js, Express
+- Cloud: AWS (EC2, S3, Lambda), Docker
