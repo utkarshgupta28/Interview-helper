@@ -35,7 +35,7 @@ This project has been structured for local development with a React (Vite) front
 
 ---
 
-## 💻 Local Setup Instructions
+##  Local Setup Instructions
 
 ### Prerequisites
 
@@ -45,7 +45,7 @@ This project has been structured for local development with a React (Vite) front
 
 ---
 
-### 1️⃣ Backend Setup
+###  Backend Setup
 
 The backend is a simple server to confirm the environment is working.
 
@@ -71,7 +71,7 @@ uvicorn app:app --reload
 
 ---
 
-### 2️⃣ Frontend Setup
+###  Frontend Setup
 
 The frontend is a fully configured Vite + React application.
 
